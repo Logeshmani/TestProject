@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xnP6qe+VnnLXJjW7tx2wRi3ePiLPzGsn5661zgClP4qqqacAna5dWC361pxRTgG38QFO5U7J0SlRj1UyfCtdfQ==",
+  "success": true,
+  "projectFilePath": "D:\\DotnetSample\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
